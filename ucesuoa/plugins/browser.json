@@ -1,0 +1,34 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "fullmatrialtemplate"
+    },
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "fullmatrialtemplate"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "fullmatrialtemplate"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "fullmatrialtemplate"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "fullmatrialtemplate"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "fullmatrialtemplate"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "fullmatrialtemplate"
+    }
+  }
+}
