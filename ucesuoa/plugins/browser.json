@@ -21,6 +21,24 @@
     },
     "cordova-plugin-device": {
       "PACKAGE_NAME": "fullmatrialtemplate"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "fullmatrialtemplate"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "fullmatrialtemplate"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "fullmatrialtemplate"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "fullmatrialtemplate"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "fullmatrialtemplate"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "fullmatrialtemplate"
     }
   },
   "dependent_plugins": {
